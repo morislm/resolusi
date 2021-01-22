@@ -1,7 +1,7 @@
 Resolusi 
 - Konsisten Belajar Coding
-- Belajar dan Belajar
 - Laravel Go..
+- git
 
 Web developer
 
