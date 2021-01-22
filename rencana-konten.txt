@@ -5,3 +5,5 @@ RENCANA RESOLUSI BARU
 - BELAJAR JAVA SCRIPT
 - belajar bootstrap
 - BELAJAR TERUS
+- Framework CodeIgniter
+- Membuat Kompleks Web
