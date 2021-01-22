@@ -3,4 +3,5 @@ RENCANA RESOLUSI BARU
 - BELAJAR NODEJS
   kayaknya ini mi dulu pertama
 - BELAJAR JAVA SCRIPT
+- belajar bootstrap
 - BELAJAR TERUS
