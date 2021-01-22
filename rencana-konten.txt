@@ -4,6 +4,6 @@ RENCANA RESOLUSI BARU
   kayaknya ini mi dulu pertama
 - BELAJAR JAVA SCRIPT
 - belajar bootstrap
-- BELAJAR TERUS
-- Framework CodeIgniter
-- Membuat Kompleks Web
+- framework codeIgniter
+- HTML dan CSS
+
